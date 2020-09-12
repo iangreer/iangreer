@@ -14,4 +14,4 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with ... 
 -->
 
-link to [my gist:] https://gist.github.com/iangreer
+Link to [my gist:] (https://gist.github.com/iangreer).
