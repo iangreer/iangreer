@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**iangreer/iangreer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
+### Well hello there 👋👋
 
 - 🔭 I’m currently working on educational tools for students && developers.
 - 🌱 I’m currently learning erlang, elixir, and the phoenix framework.
